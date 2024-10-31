@@ -1,20 +1,3 @@
-### Folder and File Structure
-
-1. Inside your repository, create a new folder:
-   ```bash
-   mkdir Introduction
-   ```
-2. Add a `README.md` file within this folder to provide the introduction and overview:
-   ```bash
-   touch Introduction/README.md
-   ```
-
-### Content for `Introduction/README.md`
-
-Here’s an initial outline for the **Introduction** section:
-
----
-
 # Introduction to Go
 
 Go, also known as **Golang**, is an open-source programming language developed by Google. Known for its simplicity, efficiency, and powerful standard library, Go is widely used in cloud computing, microservices, and distributed systems.
