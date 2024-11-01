@@ -11,7 +11,6 @@ Go was designed to address some of the major issues faced by modern developers:
 - **Cross-Platform**: Write Go code once, and compile it for multiple operating systems.
 
 ## ✨ Key Features of Go
-
 ### 1. Statically Typed
    Go is statically typed, meaning types are checked at compile time. This reduces bugs and improves code safety and maintainability.
 
