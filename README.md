@@ -93,7 +93,7 @@ The repository is organized into modules, with each folder focusing on a specifi
 
 ## 🤖 Contribution Guidelines
 
-Feel free to contribute! If you have examples, corrections, or additional topics, please fork the repository and submit a pull request.
+Feel free to contribute! if you have examples, corrections, or additional topics, please fork the repository and submit a pull request.
 
 1. Fork the project
 2. Create a new branch (`git checkout -b feature/AmazingFeature`)
@@ -105,7 +105,7 @@ Feel free to contribute! If you have examples, corrections, or additional topics
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. see the [LICENSE](LICENSE) file for details.
 
 ---
 
