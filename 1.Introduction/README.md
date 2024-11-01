@@ -29,7 +29,6 @@ Go was designed to address some of the major issues faced by modern developers:
    - `go run`: Runs Go programs without needing to compile separately.
 
 ## 🌐 Real-World Applications of Go
-
 Go is used by some of the largest tech companies and popular projects:
 - **Kubernetes**: Orchestration platform for containerized applications.
 - **Docker**: Containerization platform for developing, shipping, and running applications.
