@@ -38,7 +38,6 @@ Go is used by some of the largest tech companies and popular projects:
 - **Prometheus**: Monitoring and alerting toolkit for cloud-native environments.
 
 ## 🔍 What You’ll Learn
-
 In this repository, you’ll go from the basics of Go to advanced topics, covering:
 1. **Basic Syntax**: Get comfortable with Go’s syntax and conventions.
 2. **Control Structures**: Use conditionals, loops, and switches.
