@@ -18,7 +18,6 @@ This repository provides a structured guide to learning Go, from basics to advan
 ## 📂 Repository Structure
 
 The repository is organized into modules, with each folder focusing on a specific aspect of Go. Here’s a breakdown of the structure:
-
 ```
     Go-Language-Study/
     ├── README.md               # Overview of the repository
@@ -63,7 +62,6 @@ The repository is organized into modules, with each folder focusing on a specifi
    ```bash
    go run <filename>.go
    ```
-
 ---
 
 ## 📚 Topics Covered
