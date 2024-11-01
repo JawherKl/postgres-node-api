@@ -3,7 +3,6 @@
 Go, also known as **Golang**, is an open-source programming language developed by Google. Known for its simplicity, efficiency, and powerful standard library, Go is widely used in cloud computing, microservices, and distributed systems.
 
 ## 🌍 Why Go?
-
 Go was designed to address some of the major issues faced by modern developers:
 - **Simplicity**: Go has a minimalistic syntax, making it easy to read, learn, and use.
 - **Concurrency**: Go’s built-in support for concurrency through goroutines and channels makes it ideal for handling multiple tasks simultaneously, a crucial feature for high-performance applications.
