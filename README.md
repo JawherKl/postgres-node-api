@@ -20,25 +20,25 @@ The repository is organized into modules, with each folder focusing on a specifi
 ```
     Go-Language-Study/
     ├── README.md               # Overview of the repository
-    ├── Introduction/           # Overview of Go language, history, and features
+    ├── 1.Introduction/           # Overview of Go language, history, and features
     │   └── README.md
-    ├── Installation/           # Guide for installing and setting up Go
+    ├── 2.Installation/           # Guide for installing and setting up Go
     │   └── setup.md
-    ├── Basics/                 # Core Go syntax and concepts
+    ├── 3.Basics/                 # Core Go syntax and concepts
     │   ├── hello_world.go
     │   ├── variables.go
     │   └── README.md
-    ├── ControlStructures/      # Conditional logic and loops
+    ├── 4.ControlStructures/      # Conditional logic and loops
     │   ├── if_else.go
     │   ├── switch.go
     │   └── loops.go
-    ├── Functions/              # Function definitions, parameters, and returns
+    ├── 5.Functions/              # Function definitions, parameters, and returns
     │   ├── simple_function.go
     │   └── variadic_function.go
-    ├── Concurrency/            # Concurrency with goroutines and channels
+    ├── 6.Concurrency/            # Concurrency with goroutines and channels
     │   ├── goroutines.go
     │   └── channels.go
-    └── AdvancedTopics/         # Advanced Go topics like interfaces and error handling
+    └── 7.AdvancedTopics/         # Advanced Go topics like interfaces and error handling
         ├── interfaces.go
         └── error_handling.go
 ```
