@@ -42,7 +42,6 @@ The repository is organized into modules, with each folder focusing on a specifi
         ├── interfaces.go
         └── error_handling.go
 ```
-
 ---
 
 ## 🛠 Installation and Setup
