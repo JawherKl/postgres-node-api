@@ -107,7 +107,6 @@ This project is licensed under the MIT License. see the [LICENSE](LICENSE) file 
 ---
 
 ## 📞 Contact
-
 For questions or feedback, reach out to **[JawherKl](mailto:kalleljawher4@gmail.com)** or submit an issue on GitHub.
 
 Happy coding! 🎉
